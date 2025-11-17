@@ -1,0 +1,11 @@
+names:
+  0: Prohibitory
+  1: Mandatory
+  2: Priority
+  3: Warning
+  4: Service
+  5: Other
+path: /Users/apple/Documents/Cambodia_RoadSign_Detections/Cambodia_Traffic_Signs_Dataset_Split
+test: images/test
+train: images/train
+val: images/val
